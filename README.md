@@ -7,7 +7,10 @@ I'm interested in **data, arquitecture, automation, programming, cybersecurity, 
 ### 🔭 Featured projects
 
 - **[Voyager 1.0](https://github.com/Rickyzdv/Voyager-1.0)**: full-stack travel social network. Go REST API (chi, GORM, JWT auth), PostgreSQL and a Next.js + TypeScript frontend with interactive maps, all containerized with Docker Compose.
-- **[Distributed Calculator](https://github.com/Rickyzdv/calculadora-distribuida)**: client–middleware–server system in Java built on TCP sockets and multithreading.
+- **[Distributed Calculator: mesh version](https://github.com/Rickyzdv/calculadora-ads)**: Java system where nodes form a self-discovering full mesh and route requests by broadcast, with a JavaFX client and scripts that launch 24 processes.
+- **[Distributed Calculator: client–middleware–server](https://github.com/Rickyzdv/calculadora-distribuida)**: first version, built in Java on TCP sockets and multithreading.
+- **[Warehouse Management](https://github.com/Rickyzdv/Warehouse-Management)**: Python + PyQt6 desktop app for managing buildings, pallets and clients, built by a team in three sprints.
+- **[Clinic Management System](https://github.com/Rickyzdv/Proyecto-Final-Estructura)**: C++ console app with linked lists, a queue and a stack implemented from scratch.
 
 ### 🛠️ Tech
 
