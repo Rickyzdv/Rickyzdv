@@ -14,10 +14,10 @@ I'm interested in **data, architecture, automation, programming, cybersecurity, 
 
 ### 🛠️ Tech
 
-**Languages:** Python · Go · TypeScript / JavaScript · Java · C++ · SQL
-**Web:** React · Next.js · Node.js
-**Data & automation:** PostgreSQL · MySQL · Google Sheets · AppSheet · Apps Script
-**Tools:** Linux · Docker · Git / GitHub
+- **Languages:** Python · Go · TypeScript / JavaScript · Java · C++ · SQL
+- **Web:** React · Next.js · Node.js
+- **Data & automation:** PostgreSQL · MySQL · Google Sheets · AppSheet · Apps Script
+- **Tools:** Linux · Docker · Git / GitHub
 
 ### 🌍 Languages
 
