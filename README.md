@@ -1,8 +1,8 @@
 # Hi, I'm Ricardo 👋
 
-Data Intelligence & Cybersecurity Engineering student at **Universidad Panamericana** (Mexico City) and **Strategic Planning Intern at Natura**, where I automate business processes with AppSheet, Apps Script and Google Workspace.
+Data Intelligence & Cybersecurity Engineering student at **Universidad Panamericana** (Mexico City) and **Strategic Planning Intern at Natura**, where I automate business processes with Google Workspace.
 
-I'm interested in **data, automation, cloud and Linux**, and in using AI to build things faster.
+I'm interested in **data, arquitecture, automation, programming, cybersecurity, cloud**, and in using AI to build things faster.
 
 ### 🔭 Featured projects
 
