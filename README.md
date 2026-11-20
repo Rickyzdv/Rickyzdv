@@ -2,7 +2,7 @@
 
 Data Intelligence & Cybersecurity Engineering student at **Universidad Panamericana** (Mexico City) and **Strategic Planning Intern at Natura**, where I automate business processes with Google Workspace.
 
-I'm interested in **data, arquitecture, automation, programming, cybersecurity, cloud**, and in using AI to build things faster.
+I'm interested in **data, architecture, automation, programming, cybersecurity, cloud**, and in using AI to build things faster.
 
 ### 🔭 Featured projects
 
